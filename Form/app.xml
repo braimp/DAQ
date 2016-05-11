@@ -1,0 +1,604 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DocumentElement>
+  <DAQ>
+    <Id>1f3590f6-a3d9-e411-8264-e0db55b79f22</Id>
+    <SiteName>豆芽</SiteName>
+    <SiteUrl>http://hangqing.ymt.com/jiage/8723</SiteUrl>
+    <SiteEncoding>UTF-8</SiteEncoding>
+    <SitePageNumbers>20</SitePageNumbers>
+    <SitePagerparameter>page</SitePagerparameter>
+    <SitePageCount>100</SitePageCount>
+    <Start>//li[@class='bd']</Start>
+    <PageExp>(#page#-1)*20</PageExp>
+    <ParentText></ParentText>
+    <ParentText></ParentText>
+    <ParentId>1</ParentId>
+    <CreatedDateTime>0001-01-01T00:00:00</CreatedDateTime>
+    <CaptureData>
+      <expression ChinaName="品名" Name="Breed" Id="1f3590f6-a3d9-e411-8264-e0db55b79f23"><![CDATA[//span[1]]]></expression>
+      <expression ChinaName="批发市场" Name="Place" Id="1f3590f6-a3d9-e411-8264-e0db55b79f24"><![CDATA[//span[@class='region']]]></expression>
+      <expression ChinaName="价格" Name="Price" Id="1f3590f6-a3d9-e411-8264-e0db55b79f25"><![CDATA[//span[@class='price']]]></expression>
+      <expression  ChinaName="报价时间"  Name="Date" Id="1f3590f6-a3d9-e411-8264-e0db55b79f26"> <![CDATA[//span[@class='time']]]></expression>
+    </CaptureData>
+  </DAQ>
+  <DAQ>
+    <Id>3e51f30f-8243-4898-a0d1-6c206808e4de</Id>
+    <SiteName>芹菜</SiteName>
+    <SiteUrl>http://hangqing.ymt.com/jiage/8217</SiteUrl>
+    <SiteEncoding>UTF-8</SiteEncoding>
+    <SitePageNumbers>20</SitePageNumbers>
+    <SitePagerparameter>page</SitePagerparameter>
+    <SitePageCount>100</SitePageCount>
+    <Start>//li[@class='bd']</Start>
+    <PageExp>(#page#-1)*20</PageExp>
+    <ParentText></ParentText>
+    <ParentId>1</ParentId>
+    <CreatedDateTime>0001-01-01T00:00:00</CreatedDateTime>
+    <CaptureData>
+      <expression ChinaName="品名" Id="5fa18d3f-d023-47b7-b695-8c352caa0978" Name="Breed"><![CDATA[//span[1]]]></expression>
+      <expression ChinaName="批发市场" Id="3e14cd5f-7021-4d2d-b2ab-8216a7dcf723" Name="Place"><![CDATA[//span[@class='region']]]></expression>
+      <expression ChinaName="价格" Id="7358e7a3-64d2-4c5b-99e9-fa821b1db9e8" Name="Price"><![CDATA[//span[@class='price']]]></expression>
+      <expression  ChinaName="报价时间"  Name="Date" Id="1f3590f6-a3d9-e411-8264-e0db55b79f26"> <![CDATA[//span[@class='time']]]></expression>
+    </CaptureData>
+  </DAQ>
+  <DAQ>
+    <Id>500fb64c-023b-4fc1-9339-cf49a30b0335</Id>
+    <SiteName>荸荠</SiteName>
+    <SiteUrl>http://hangqing.ymt.com/jiage/7196</SiteUrl>
+    <SiteEncoding>UTF-8</SiteEncoding>
+    <SitePageNumbers>20</SitePageNumbers>
+    <SitePagerparameter>page</SitePagerparameter>
+    <SitePageCount>100</SitePageCount>
+    <Start>//li[@class='bd']</Start>
+    <PageExp>(#page#-1)*20</PageExp>
+    <ParentText></ParentText>
+    <ParentId>1</ParentId>
+    <CreatedDateTime>0001-01-01T00:00:00</CreatedDateTime>
+    <CaptureData>
+      <expression ChinaName="品名" Id="9ee7bf43-5140-479a-9f6f-f7bc3ec35ded" Name="Breed"><![CDATA[//span[1]]]></expression>
+      <expression ChinaName="批发市场" Id="51ce8043-d587-4418-92e5-006cb19fae61" Name="Place"><![CDATA[//span[@class='region']]]></expression>
+      <expression ChinaName="价格" Id="6ba8cca4-32f3-40b5-a505-f8899468f3ba" Name="Price"><![CDATA[//span[@class='price']]]></expression>
+      <expression  ChinaName="报价时间"  Name="Date" Id="1f3590f6-a3d9-e411-8264-e0db55b79f26"> <![CDATA[//span[@class='time']]]></expression>
+    </CaptureData>
+  </DAQ>
+  <DAQ>
+    <Id>b7a8dcfb-7bf2-48a6-b98c-7c7d5d40ccd6</Id>
+    <SiteName>扁豆</SiteName>
+    <SiteUrl>http://hangqing.ymt.com/jiage/7198</SiteUrl>
+    <SiteEncoding>UTF-8</SiteEncoding>
+    <SitePageNumbers>20</SitePageNumbers>
+    <SitePagerparameter>page</SitePagerparameter>
+    <SitePageCount>100</SitePageCount>
+    <Start>//li[@class='bd']</Start>
+    <PageExp>(#page#-1)*20</PageExp>
+    <ParentText></ParentText>
+    <ParentId>1</ParentId>
+    <CreatedDateTime>0001-01-01T00:00:00</CreatedDateTime>
+    <CaptureData>
+      <expression ChinaName="品名" Id="4da20481-1ca6-47d1-8dc3-e801737321c2" Name="Breed"><![CDATA[//span[1]]]></expression>
+      <expression ChinaName="批发市场" Id="7cc7ead2-8755-4d64-8e5d-9710e6c5faad" Name="Place"><![CDATA[//span[@class='region']]]></expression>
+      <expression ChinaName="价格" Id="a2661ff3-7bad-4975-b365-9df98d7db004" Name="Price"><![CDATA[//span[@class='price']]]></expression>
+      <expression  ChinaName="报价时间"  Name="Date" Id="1f3590f6-a3d9-e411-8264-e0db55b79f26"> <![CDATA[//span[@class='time']]]></expression>
+    </CaptureData>
+  </DAQ>
+  <DAQ>
+    <Id>2f7c095f-18d9-4e7b-b67d-9b6f25d16a99</Id>
+    <SiteName>青椒</SiteName>
+    <SiteUrl>http://hangqing.ymt.com/jiage/8224</SiteUrl>
+    <SiteEncoding>UTF-8</SiteEncoding>
+    <SitePageNumbers>20</SitePageNumbers>
+    <SitePagerparameter>page</SitePagerparameter>
+    <SitePageCount>100</SitePageCount>
+    <Start>//li[@class='bd']</Start>
+    <PageExp>(#page#-1)*20</PageExp>
+    <ParentText></ParentText>
+    <ParentId>1</ParentId>
+    <CreatedDateTime>0001-01-01T00:00:00</CreatedDateTime>
+    <CaptureData>
+      <expression ChinaName="品名" Id="bdd13059-f643-4fd7-91b3-4a0b3bb357f7" Name="Breed"><![CDATA[//span[1]]]></expression>
+      <expression ChinaName="批发市场" Id="09bfa68a-bd20-4bc2-9f35-64467267bce1" Name="Place"><![CDATA[//span[@class='region']]]></expression>
+      <expression ChinaName="价格" Id="de565389-9821-4d66-a885-702d3730d954" Name="Price"><![CDATA[//span[@class='price']]]></expression>
+      <expression  ChinaName="报价时间"  Name="Date" Id="1f3590f6-a3d9-e411-8264-e0db55b79f26"> <![CDATA[//span[@class='time']]]></expression>
+    </CaptureData>
+  </DAQ>
+  <DAQ>
+    <Id>3be33349-70fc-4bc2-ae34-545a8bd04122</Id>
+    <SiteName>菠菜</SiteName>
+    <SiteUrl>http://hangqing.ymt.com/jiage/7208</SiteUrl>
+    <SiteEncoding>UTF-8</SiteEncoding>
+    <SitePageNumbers>20</SitePageNumbers>
+    <SitePagerparameter>page</SitePagerparameter>
+    <SitePageCount>100</SitePageCount>
+    <Start>//li[@class='bd']</Start>
+    <PageExp>(#page#-1)*20</PageExp>
+    <ParentText></ParentText>
+    <ParentId>1</ParentId>
+    <CreatedDateTime>0001-01-01T00:00:00</CreatedDateTime>
+    <CaptureData>
+      <expression ChinaName="品名" Id="83d3f7d6-7f0b-47bf-b2ce-286456e4850a" Name="Breed"><![CDATA[//span[1]]]></expression>
+      <expression ChinaName="批发市场" Id="1918715a-851e-4a9b-8972-9dd864682b6a" Name="Place"><![CDATA[//span[@class='region']]]></expression>
+      <expression ChinaName="价格" Id="b6fc0141-89e4-4a71-9bf9-27fd7581dc39" Name="Price"><![CDATA[//span[@class='price']]]></expression>
+      <expression  ChinaName="报价时间"  Name="Date" Id="1f3590f6-a3d9-e411-8264-e0db55b79f26"> <![CDATA[//span[@class='time']]]></expression>
+    </CaptureData>
+  </DAQ>
+  <DAQ>
+    <Id>3e336b23-3c1d-4f72-abc9-93556f7a6cad</Id>
+    <SiteName>菜瓜</SiteName>
+    <SiteUrl>http://hangqing.ymt.com/jiage/7221</SiteUrl>
+    <SiteEncoding>UTF-8</SiteEncoding>
+    <SitePageNumbers>20</SitePageNumbers>
+    <SitePagerparameter>page</SitePagerparameter>
+    <SitePageCount>100</SitePageCount>
+    <Start>//li[@class='bd']</Start>
+    <PageExp>(#page#-1)*20</PageExp>
+    <ParentText></ParentText>
+    <ParentId>1</ParentId>
+    <CreatedDateTime>0001-01-01T00:00:00</CreatedDateTime>
+    <CaptureData>
+      <expression ChinaName="品名" Id="bfff9e78-5dc1-47bc-83d3-19215ea3ff99" Name="Breed"><![CDATA[//span[1]]]></expression>
+      <expression ChinaName="批发市场" Id="87cedd62-034b-4be4-ae85-c5274ebd42e3" Name="Place"><![CDATA[//span[@class='region']]]></expression>
+      <expression ChinaName="价格" Id="73f980ff-60a5-4847-aaf3-aa30dd87b737" Name="Price"><![CDATA[//span[@class='price']]]></expression>
+      <expression  ChinaName="报价时间"  Name="Date" Id="1f3590f6-a3d9-e411-8264-e0db55b79f26"> <![CDATA[//span[@class='time']]]></expression>
+    </CaptureData>
+  </DAQ>
+  <DAQ>
+    <Id>80631b9d-c8b9-44e3-877a-3bd31dedd0e2</Id>
+    <SiteName>菜花</SiteName>
+    <SiteUrl>http://hangqing.ymt.com/jiage/7222</SiteUrl>
+    <SiteEncoding>UTF-8</SiteEncoding>
+    <SitePageNumbers>20</SitePageNumbers>
+    <SitePagerparameter>page</SitePagerparameter>
+    <SitePageCount>100</SitePageCount>
+    <Start>//li[@class='bd']</Start>
+    <PageExp>(#page#-1)*20</PageExp>
+    <ParentText></ParentText>
+    <ParentId>1</ParentId>
+    <CreatedDateTime>0001-01-01T00:00:00</CreatedDateTime>
+    <CaptureData>
+      <expression ChinaName="品名" Id="d7dc99a0-c0b3-4291-9dcc-bfe199d667ba" Name="Breed"><![CDATA[//span[1]]]></expression>
+      <expression ChinaName="批发市场" Id="db900ef2-2f4a-4a51-9cad-c09e334b94c6" Name="Place"><![CDATA[//span[@class='region']]]></expression>
+      <expression ChinaName="价格" Id="3509120e-bdcb-48b9-8dd8-69dd72649a0a" Name="Price"><![CDATA[//span[@class='price']]]></expression>
+      <expression  ChinaName="报价时间"  Name="Date" Id="1f3590f6-a3d9-e411-8264-e0db55b79f26"> <![CDATA[//span[@class='time']]]></expression>
+    </CaptureData>
+  </DAQ>
+  <DAQ>
+    <Id>4ff0ce99-bd9f-4470-960f-522412fc7429</Id>
+    <SiteName>小乳瓜</SiteName>
+    <SiteUrl>http://hangqing.ymt.com/jiage/8250</SiteUrl>
+    <SiteEncoding>UTF-8</SiteEncoding>
+    <SitePageNumbers>20</SitePageNumbers>
+    <SitePagerparameter>page</SitePagerparameter>
+    <SitePageCount>100</SitePageCount>
+    <Start>//li[@class='bd']</Start>
+    <PageExp>(#page#-1)*20</PageExp>
+    <ParentText></ParentText>
+    <ParentId>1</ParentId>
+    <CreatedDateTime>0001-01-01T00:00:00</CreatedDateTime>
+    <CaptureData>
+      <expression ChinaName="品名" Id="76340acb-904f-41bc-9523-6c1dc9ba3f31" Name="Breed"><![CDATA[//span[1]]]></expression>
+      <expression ChinaName="批发市场" Id="f126be30-f595-4b9a-9692-f4e9d6a8d417" Name="Place"><![CDATA[//span[@class='region']]]></expression>
+      <expression ChinaName="价格" Id="dabb5059-04e0-4b6a-bfa1-03a79f574474" Name="Price"><![CDATA[//span[@class='price']]]></expression>
+      <expression  ChinaName="报价时间"  Name="Date" Id="1f3590f6-a3d9-e411-8264-e0db55b79f26"> <![CDATA[//span[@class='time']]]></expression>
+    </CaptureData>
+  </DAQ>
+  <DAQ>
+    <Id>387e8733-99a7-4065-b833-a954c10cdd74</Id>
+    <SiteName>胡萝卜</SiteName>
+    <SiteUrl>http://hangqing.ymt.com/jiage/7741</SiteUrl>
+    <SiteEncoding>UTF-8</SiteEncoding>
+    <SitePageNumbers>20</SitePageNumbers>
+    <SitePagerparameter>page</SitePagerparameter>
+    <SitePageCount>100</SitePageCount>
+    <Start>//li[@class='bd']</Start>
+    <PageExp>(#page#-1)*20</PageExp>
+    <ParentText></ParentText>
+    <ParentId>1</ParentId>
+    <CreatedDateTime>0001-01-01T00:00:00</CreatedDateTime>
+    <CaptureData>
+      <expression ChinaName="品名" Id="4a15d357-8321-407e-80ee-fa2ff73859c8" Name="Breed"><![CDATA[//span[1]]]></expression>
+      <expression ChinaName="批发市场" Id="47a2cfc6-bc66-470b-8710-b9cbcb19e31f" Name="Place"><![CDATA[//span[@class='region']]]></expression>
+      <expression ChinaName="价格" Id="093220d3-f1e6-4339-8605-fc02fd5a506f" Name="Price"><![CDATA[//span[@class='price']]]></expression>
+      <expression  ChinaName="报价时间"  Name="Date" Id="1f3590f6-a3d9-e411-8264-e0db55b79f26"> <![CDATA[//span[@class='time']]]></expression>
+    </CaptureData>
+  </DAQ>
+  <DAQ>
+    <Id>74eafb84-9bf6-4c52-90a4-8912a4d4c1a0</Id>
+    <SiteName>西葫芦</SiteName>
+    <SiteUrl>http://hangqing.ymt.com/jiage/7742</SiteUrl>
+    <SiteEncoding>UTF-8</SiteEncoding>
+    <SitePageNumbers>20</SitePageNumbers>
+    <SitePagerparameter>page</SitePagerparameter>
+    <SitePageCount>100</SitePageCount>
+    <Start>//li[@class='bd']</Start>
+    <PageExp>(#page#-1)*20</PageExp>
+    <ParentText></ParentText>
+    <ParentId>1</ParentId>
+    <CreatedDateTime>0001-01-01T00:00:00</CreatedDateTime>
+    <CaptureData>
+      <expression ChinaName="品名" Id="f1321027-faf5-46fe-8f72-534898737d5c" Name="Breed"><![CDATA[//span[1]]]></expression>
+      <expression ChinaName="批发市场" Id="35252bb4-6484-40a4-9967-eb05300fd95c" Name="Place"><![CDATA[//span[@class='region']]]></expression>
+      <expression ChinaName="价格" Id="eccc1bc0-e466-4686-9cda-437ce7ad9537" Name="Price"><![CDATA[//span[@class='price']]]></expression>
+      <expression  ChinaName="报价时间"  Name="Date" Id="1f3590f6-a3d9-e411-8264-e0db55b79f26"> <![CDATA[//span[@class='time']]]></expression>
+    </CaptureData>
+  </DAQ>
+  <DAQ>
+    <Id>e049ca46-decc-408c-a2d3-16820b85798f</Id>
+    <SiteName>葫芦</SiteName>
+    <SiteUrl>http://hangqing.ymt.com/jiage/7744</SiteUrl>
+    <SiteEncoding>UTF-8</SiteEncoding>
+    <SitePageNumbers>20</SitePageNumbers>
+    <SitePagerparameter>page</SitePagerparameter>
+    <SitePageCount>100</SitePageCount>
+    <Start>//li[@class='bd']</Start>
+    <PageExp>(#page#-1)*20</PageExp>
+    <ParentText></ParentText>
+    <ParentId>1</ParentId>
+    <CreatedDateTime>0001-01-01T00:00:00</CreatedDateTime>
+    <CaptureData>
+      <expression ChinaName="品名" Id="a12487a7-74ba-4341-afae-9bf445772384" Name="Breed"><![CDATA[//span[1]]]></expression>
+      <expression ChinaName="批发市场" Id="43ca87f3-6526-4e51-ab8a-ebcec86bc705" Name="Place"><![CDATA[//span[@class='region']]]></expression>
+      <expression ChinaName="价格" Id="a811cd6d-38ad-4c28-96a5-530c0ced5763" Name="Price"><![CDATA[//span[@class='price']]]></expression>
+      <expression  ChinaName="报价时间"  Name="Date" Id="1f3590f6-a3d9-e411-8264-e0db55b79f26"> <![CDATA[//span[@class='time']]]></expression>
+    </CaptureData>
+  </DAQ>
+  <DAQ>
+    <Id>1c23b15d-d23a-48be-80dc-615641d5d61a</Id>
+    <SiteName>菜心</SiteName>
+    <SiteUrl>http://hangqing.ymt.com/jiage/7233</SiteUrl>
+    <SiteEncoding>UTF-8</SiteEncoding>
+    <SitePageNumbers>20</SitePageNumbers>
+    <SitePagerparameter>page</SitePagerparameter>
+    <SitePageCount>100</SitePageCount>
+    <Start>//li[@class='bd']</Start>
+    <PageExp>(#page#-1)*20</PageExp>
+    <ParentText></ParentText>
+    <ParentId>1</ParentId>
+    <CreatedDateTime>0001-01-01T00:00:00</CreatedDateTime>
+    <CaptureData>
+      <expression ChinaName="品名" Id="ce6d02e3-ed2e-4145-b391-44e61993e260" Name="Breed"><![CDATA[//span[1]]]></expression>
+      <expression ChinaName="批发市场" Id="fb1a4afe-c2e8-4515-b126-8946ac77ec33" Name="Place"><![CDATA[//span[@class='region']]]></expression>
+      <expression ChinaName="价格" Id="5eb0a447-3563-49ef-b579-fb258e660a86" Name="Price"><![CDATA[//span[@class='price']]]></expression>
+      <expression  ChinaName="报价时间"  Name="Date" Id="1f3590f6-a3d9-e411-8264-e0db55b79f26"> <![CDATA[//span[@class='time']]]></expression>
+    </CaptureData>
+  </DAQ>
+  <DAQ>
+    <Id>61400e0e-3e6a-4552-a9a5-d7001aef908b</Id>
+    <SiteName>山药</SiteName>
+    <SiteUrl>http://hangqing.ymt.com/jiage/8275</SiteUrl>
+    <SiteEncoding>UTF-8</SiteEncoding>
+    <SitePageNumbers>20</SitePageNumbers>
+    <SitePagerparameter>page</SitePagerparameter>
+    <SitePageCount>100</SitePageCount>
+    <Start>//li[@class='bd']</Start>
+    <PageExp>(#page#-1)*20</PageExp>
+    <ParentText></ParentText>
+    <ParentId>1</ParentId>
+    <CreatedDateTime>0001-01-01T00:00:00</CreatedDateTime>
+    <CaptureData>
+      <expression ChinaName="品名" Id="9a569e22-6708-4b99-ab95-eff40707e110" Name="Breed"><![CDATA[//span[1]]]></expression>
+      <expression ChinaName="批发市场" Id="46807d89-ccaf-429f-8e3a-0d63891a8cc3" Name="Place"><![CDATA[//span[@class='region']]]></expression>
+      <expression ChinaName="价格" Id="d1f9b05f-56d0-4adb-9f54-d926f35f71dd" Name="Price"><![CDATA[//span[@class='price']]]></expression>
+      <expression  ChinaName="报价时间"  Name="Date" Id="1f3590f6-a3d9-e411-8264-e0db55b79f26"> <![CDATA[//span[@class='time']]]></expression>
+    </CaptureData>
+  </DAQ>
+  <DAQ>
+    <Id>f61b8d43-ff04-450e-ba7e-7d526c562b0a</Id>
+    <SiteName>生菜</SiteName>
+    <SiteUrl>http://hangqing.ymt.com/jiage/8291</SiteUrl>
+    <SiteEncoding>UTF-8</SiteEncoding>
+    <SitePageNumbers>20</SitePageNumbers>
+    <SitePagerparameter>page</SitePagerparameter>
+    <SitePageCount>100</SitePageCount>
+    <Start>//li[@class='bd']</Start>
+    <PageExp>(#page#-1)*20</PageExp>
+    <ParentText></ParentText>
+    <ParentId>1</ParentId>
+    <CreatedDateTime>0001-01-01T00:00:00</CreatedDateTime>
+    <CaptureData>
+      <expression ChinaName="品名" Id="a6ef930a-c54f-4307-aafa-675119db44d8" Name="Breed"><![CDATA[//span[1]]]></expression>
+      <expression ChinaName="批发市场" Id="2d53cbb6-4ed1-4ca1-a64b-b79412d41de3" Name="Place"><![CDATA[//span[@class='region']]]></expression>
+      <expression ChinaName="价格" Id="83c65204-97d7-406c-915b-38b8882fbd68" Name="Price"><![CDATA[//span[@class='price']]]></expression>
+      <expression  ChinaName="报价时间"  Name="Date" Id="1f3590f6-a3d9-e411-8264-e0db55b79f26"> <![CDATA[//span[@class='time']]]></expression>
+    </CaptureData>
+  </DAQ>
+  <DAQ>
+    <Id>d578a4b9-6163-462c-931a-edb8dd42329f</Id>
+    <SiteName>苋菜</SiteName>
+    <SiteUrl>http://hangqing.ymt.com/jiage/7790</SiteUrl>
+    <SiteEncoding>UTF-8</SiteEncoding>
+    <SitePageNumbers>20</SitePageNumbers>
+    <SitePagerparameter>page</SitePagerparameter>
+    <SitePageCount>100</SitePageCount>
+    <Start>//li[@class='bd']</Start>
+    <PageExp>(#page#-1)*20</PageExp>
+    <ParentText></ParentText>
+    <ParentId>1</ParentId>
+    <CreatedDateTime>0001-01-01T00:00:00</CreatedDateTime>
+    <CaptureData>
+      <expression ChinaName="品名" Id="2e2774e8-6290-43b3-9dec-0505c2fccf01" Name="Breed"><![CDATA[//span[1]]]></expression>
+      <expression ChinaName="批发市场" Id="1c5be947-143a-418e-84b3-5bb0d3e89ca2" Name="Place"><![CDATA[//span[@class='region']]]></expression>
+      <expression ChinaName="价格" Id="29ccda01-9d6a-4c43-9b81-2c00b7b5e667" Name="Price"><![CDATA[//span[@class='price']]]></expression>
+      <expression  ChinaName="报价时间"  Name="Date" Id="1f3590f6-a3d9-e411-8264-e0db55b79f26"> <![CDATA[//span[@class='time']]]></expression>
+    </CaptureData>
+  </DAQ>
+  <DAQ>
+    <Id>ad32f69c-f4d0-4ac1-8fd3-38218889a5b8</Id>
+    <SiteName>黄瓜</SiteName>
+    <SiteUrl>http://hangqing.ymt.com/jiage/7799</SiteUrl>
+    <SiteEncoding>UTF-8</SiteEncoding>
+    <SitePageNumbers>20</SitePageNumbers>
+    <SitePagerparameter>page</SitePagerparameter>
+    <SitePageCount>100</SitePageCount>
+    <Start>//li[@class='bd']</Start>
+    <PageExp>(#page#-1)*20</PageExp>
+    <ParentText></ParentText>
+    <ParentId>1</ParentId>
+    <CreatedDateTime>0001-01-01T00:00:00</CreatedDateTime>
+    <CaptureData>
+      <expression ChinaName="品名" Id="9611ff33-b28c-43bf-92d2-0e4e37033ade" Name="Breed"><![CDATA[//span[1]]]></expression>
+      <expression ChinaName="批发市场" Id="0fe0d7a2-819d-4069-b8c7-d345dddc9c97" Name="Place"><![CDATA[//span[@class='region']]]></expression>
+      <expression ChinaName="价格" Id="50b2b440-ac1f-4a9b-94c8-fe7f929fef7d" Name="Price"><![CDATA[//span[@class='price']]]></expression>
+      <expression  ChinaName="报价时间"  Name="Date" Id="1f3590f6-a3d9-e411-8264-e0db55b79f26"> <![CDATA[//span[@class='time']]]></expression>
+    </CaptureData>
+  </DAQ>
+  <DAQ>
+    <Id>d1af0008-e3ab-41e7-806e-9a7ec893a0f8</Id>
+    <SiteName>春笋</SiteName>
+    <SiteUrl>http://hangqing.ymt.com/jiage/7291</SiteUrl>
+    <SiteEncoding>UTF-8</SiteEncoding>
+    <SitePageNumbers>20</SitePageNumbers>
+    <SitePagerparameter>page</SitePagerparameter>
+    <SitePageCount>100</SitePageCount>
+    <Start>//li[@class='bd']</Start>
+    <PageExp>(#page#-1)*20</PageExp>
+    <ParentText></ParentText>
+    <ParentId>1</ParentId>
+    <CreatedDateTime>0001-01-01T00:00:00</CreatedDateTime>
+    <CaptureData>
+      <expression ChinaName="品名" Id="7456b8f4-b80c-4140-ae22-578a7c7a7a87" Name="Breed"><![CDATA[//span[1]]]></expression>
+      <expression ChinaName="批发市场" Id="5aac491b-c239-4f43-889a-5dda33c2b2c7" Name="Place"><![CDATA[//span[@class='region']]]></expression>
+      <expression ChinaName="价格" Id="3096974b-1b11-45a5-b315-74c12d7d278b" Name="Price"><![CDATA[//span[@class='price']]]></expression>
+      <expression  ChinaName="报价时间"  Name="Date" Id="1f3590f6-a3d9-e411-8264-e0db55b79f26"> <![CDATA[//span[@class='time']]]></expression>
+    </CaptureData>
+  </DAQ>
+  <DAQ>
+    <Id>a0881f34-2437-4aa2-b740-ad72f6b63f79</Id>
+    <SiteName>大葱</SiteName>
+    <SiteUrl>http://hangqing.ymt.com/jiage/7298</SiteUrl>
+    <SiteEncoding>UTF-8</SiteEncoding>
+    <SitePageNumbers>20</SitePageNumbers>
+    <SitePagerparameter>page</SitePagerparameter>
+    <SitePageCount>100</SitePageCount>
+    <Start>//li[@class='bd']</Start>
+    <PageExp>(#page#-1)*20</PageExp>
+    <ParentText></ParentText>
+    <ParentId>1</ParentId>
+    <CreatedDateTime>0001-01-01T00:00:00</CreatedDateTime>
+    <CaptureData>
+      <expression ChinaName="品名" Id="91292f55-e5b7-4157-a21b-cd37a2f8f4fa" Name="Breed"><![CDATA[//span[1]]]></expression>
+      <expression ChinaName="批发市场" Id="f8ca2561-6796-4b4f-910d-0e6f153807f2" Name="Place"><![CDATA[//span[@class='region']]]></expression>
+      <expression ChinaName="价格" Id="8e0429a4-0760-48ad-baef-5d4f5fe367b0" Name="Price"><![CDATA[//span[@class='price']]]></expression>
+      <expression  ChinaName="报价时间"  Name="Date" Id="1f3590f6-a3d9-e411-8264-e0db55b79f26"> <![CDATA[//span[@class='time']]]></expression>
+    </CaptureData>
+  </DAQ>
+  <DAQ>
+    <Id>55762d8d-2916-4eba-9df4-34b7775413cd</Id>
+    <SiteName>小葱</SiteName>
+    <SiteUrl>http://hangqing.ymt.com/jiage/7300</SiteUrl>
+    <SiteEncoding>UTF-8</SiteEncoding>
+    <SitePageNumbers>20</SitePageNumbers>
+    <SitePagerparameter>page</SitePagerparameter>
+    <SitePageCount>100</SitePageCount>
+    <Start>//li[@class='bd']</Start>
+    <PageExp>(#page#-1)*20</PageExp>
+    <ParentText></ParentText>
+    <ParentId>1</ParentId>
+    <CreatedDateTime>0001-01-01T00:00:00</CreatedDateTime>
+    <CaptureData>
+      <expression ChinaName="品名" Id="7445baf0-6985-47b9-8f45-5b3bb7b9ea3a" Name="Breed"><![CDATA[//span[1]]]></expression>
+      <expression ChinaName="批发市场" Id="82c62be1-07ba-4179-8374-a450a31aaf88" Name="Place"><![CDATA[//span[@class='region']]]></expression>
+      <expression ChinaName="价格" Id="d0253558-621b-4519-b546-1eae31d2004a" Name="Price"><![CDATA[//span[@class='price']]]></expression>
+      <expression  ChinaName="报价时间"  Name="Date" Id="1f3590f6-a3d9-e411-8264-e0db55b79f26"> <![CDATA[//span[@class='time']]]></expression>
+    </CaptureData>
+  </DAQ>
+  <DAQ>
+    <Id>48fd6df9-9955-4cc7-859b-62befb3587c0</Id>
+    <SiteName>丝瓜</SiteName>
+    <SiteUrl>http://hangqing.ymt.com/jiage/8325</SiteUrl>
+    <SiteEncoding>UTF-8</SiteEncoding>
+    <SitePageNumbers>20</SitePageNumbers>
+    <SitePagerparameter>page</SitePagerparameter>
+    <SitePageCount>100</SitePageCount>
+    <Start>//li[@class='bd']</Start>
+    <PageExp>(#page#-1)*20</PageExp>
+    <ParentText></ParentText>
+    <ParentId>1</ParentId>
+    <CreatedDateTime>0001-01-01T00:00:00</CreatedDateTime>
+    <CaptureData>
+      <expression ChinaName="品名" Id="9fec0b8b-13ee-4774-a194-6a7c29ee43d7" Name="Breed"><![CDATA[//span[1]]]></expression>
+      <expression ChinaName="批发市场" Id="f3ce9368-e921-468d-950c-c4318c6a7387" Name="Place"><![CDATA[//span[@class='region']]]></expression>
+      <expression ChinaName="价格" Id="dd179b92-bb95-43c4-b04c-fb97426201d7" Name="Price"><![CDATA[//span[@class='price']]]></expression>
+      <expression  ChinaName="报价时间"  Name="Date" Id="1f3590f6-a3d9-e411-8264-e0db55b79f26"> <![CDATA[//span[@class='time']]]></expression>
+    </CaptureData>
+  </DAQ>
+  <DAQ>
+    <Id>563efb6a-5c1d-4eba-9335-71927b4df9b3</Id>
+    <SiteName>四季豆</SiteName>
+    <SiteUrl>http://hangqing.ymt.com/jiage/8327</SiteUrl>
+    <SiteEncoding>UTF-8</SiteEncoding>
+    <SitePageNumbers>20</SitePageNumbers>
+    <SitePagerparameter>page</SitePagerparameter>
+    <SitePageCount>100</SitePageCount>
+    <Start>//li[@class='bd']</Start>
+    <PageExp>(#page#-1)*20</PageExp>
+    <ParentText></ParentText>
+    <ParentId>1</ParentId>
+    <CreatedDateTime>0001-01-01T00:00:00</CreatedDateTime>
+    <CaptureData>
+      <expression ChinaName="品名" Id="293d3789-0a09-4f25-bd3f-b7ec3f784ba3" Name="Breed"><![CDATA[//span[1]]]></expression>
+      <expression ChinaName="批发市场" Id="3f06c707-5b54-4f38-9748-91db1d578da1" Name="Place"><![CDATA[//span[@class='region']]]></expression>
+      <expression ChinaName="价格" Id="ac8c90a8-96e9-4ea5-b19b-1d60d0c4f68f" Name="Price"><![CDATA[//span[@class='price']]]></expression>
+      <expression  ChinaName="报价时间"  Name="Date" Id="1f3590f6-a3d9-e411-8264-e0db55b79f26"> <![CDATA[//span[@class='time']]]></expression>
+    </CaptureData>
+  </DAQ>
+  <DAQ>
+    <Id>9c1640e7-550c-4f11-9ca8-e5b594021092</Id>
+    <SiteName>洋葱</SiteName>
+    <SiteUrl>http://hangqing.ymt.com/jiage/7304</SiteUrl>
+    <SiteEncoding>UTF-8</SiteEncoding>
+    <SitePageNumbers>20</SitePageNumbers>
+    <SitePagerparameter>page</SitePagerparameter>
+    <SitePageCount>100</SitePageCount>
+    <Start>//li[@class='bd']</Start>
+    <PageExp>(#page#-1)*20</PageExp>
+    <ParentText></ParentText>
+    <ParentId>1</ParentId>
+    <CreatedDateTime>0001-01-01T00:00:00</CreatedDateTime>
+    <CaptureData>
+      <expression ChinaName="品名" Id="9ccf3ac2-5272-4ef5-b0f4-4a862f6bf27d" Name="Breed"><![CDATA[//span[1]]]></expression>
+      <expression ChinaName="批发市场" Id="9c8dd7dd-9191-4a80-ae6a-628c483b3dc7" Name="Place"><![CDATA[//span[@class='region']]]></expression>
+      <expression ChinaName="价格" Id="588b3c83-e407-4c40-ae32-86419bb136af" Name="Price"><![CDATA[//span[@class='price']]]></expression>
+      <expression  ChinaName="报价时间"  Name="Date" Id="1f3590f6-a3d9-e411-8264-e0db55b79f26"> <![CDATA[//span[@class='time']]]></expression>
+    </CaptureData>
+  </DAQ>
+  <DAQ>
+    <Id>95dac3bb-4580-4b04-b286-af9e79c5509f</Id>
+    <SiteName>红葱头</SiteName>
+    <ParentText></ParentText>
+    <ParentId>1</ParentId>
+    <SiteUrl>http://hangqing.ymt.com/jiage/7307</SiteUrl>
+    <SiteEncoding>UTF-8</SiteEncoding>
+    <SitePageNumbers>20</SitePageNumbers>
+    <SitePagerparameter>page</SitePagerparameter>
+    <SitePageCount>100</SitePageCount>
+    <Start>//li[@class='bd']</Start>
+    <PageExp>(#page#-1)*20</PageExp>
+    <CreatedDateTime>0001-01-01T00:00:00</CreatedDateTime>
+    <CaptureData>
+      <expression ChinaName="品名" Id="450f2611-b759-4804-a9a9-8f36bb5fb19c" Name="Breed"><![CDATA[//span[1]]]></expression>
+      <expression ChinaName="批发市场" Id="e503ce94-5c2c-43a3-9ca6-adf3b4c1c751" Name="Place"><![CDATA[//span[@class='region']]]></expression>
+      <expression ChinaName="价格" Id="95bdf047-84fb-48ed-8e0d-cbaeb769e84e" Name="Price"><![CDATA[//span[@class='price']]]></expression>
+      <expression  ChinaName="报价时间"  Name="Date" Id="1f3590f6-a3d9-e411-8264-e0db55b79f26"> <![CDATA[//span[@class='time']]]></expression>
+    </CaptureData>
+  </DAQ>
+  <DAQ>
+    <Id>04a976ff-0d8b-4db2-ac89-53df745ed1b3</Id>
+    <SiteName>蒜苗</SiteName>
+    <SiteUrl>http://hangqing.ymt.com/jiage/8332</SiteUrl>
+    <SiteEncoding>UTF-8</SiteEncoding>
+    <SitePageNumbers>20</SitePageNumbers>
+    <SitePagerparameter>page</SitePagerparameter>
+    <SitePageCount>100</SitePageCount>
+    <Start>//li[@class='bd']</Start>
+    <PageExp>(#page#-1)*20</PageExp>
+    <ParentText></ParentText>
+    <ParentId>1</ParentId>
+    <CreatedDateTime>0001-01-01T00:00:00</CreatedDateTime>
+    <CaptureData>
+      <expression ChinaName="品名" Id="e2dcfb09-3227-4e7a-acb2-836757edf79a" Name="Breed"><![CDATA[//span[1]]]></expression>
+      <expression ChinaName="批发市场" Id="c29ea1cf-6513-4e7d-a7f3-816109cf44f4" Name="Place"><![CDATA[//span[@class='region']]]></expression>
+      <expression ChinaName="价格" Id="3c4ff06d-7849-4b2c-9701-5f4f40af7f11" Name="Price"><![CDATA[//span[@class='price']]]></expression>
+      <expression  ChinaName="报价时间"  Name="Date" Id="1f3590f6-a3d9-e411-8264-e0db55b79f26"> <![CDATA[//span[@class='time']]]></expression>
+    </CaptureData>
+  </DAQ>
+  <DAQ>
+    <Id>849bf962-d0e8-40e8-95f7-93ec9f90f24c</Id>
+    <SiteName>蒜薹</SiteName>
+    <SiteUrl>http://hangqing.ymt.com/jiage/8334</SiteUrl>
+    <SiteEncoding>UTF-8</SiteEncoding>
+    <SitePageNumbers>20</SitePageNumbers>
+    <SitePagerparameter>page</SitePagerparameter>
+    <SitePageCount>100</SitePageCount>
+    <Start>//li[@class='bd']</Start>
+    <PageExp>(#page#-1)*20</PageExp>
+    <ParentText></ParentText>
+    <ParentId>1</ParentId>
+    <CreatedDateTime>0001-01-01T00:00:00</CreatedDateTime>
+    <CaptureData>
+      <expression ChinaName="品名" Id="58451c99-ce92-4852-bcd1-66da3a926ba6" Name="Breed"><![CDATA[//span[1]]]></expression>
+      <expression ChinaName="批发市场" Id="0588b53a-924d-4c26-83c0-462d1293ff7e" Name="Place"><![CDATA[//span[@class='region']]]></expression>
+      <expression ChinaName="价格" Id="d78cd630-b916-4faf-971b-fdb134cc19a1" Name="Price"><![CDATA[//span[@class='price']]]></expression>
+      <expression  ChinaName="报价时间"  Name="Date" Id="1f3590f6-a3d9-e411-8264-e0db55b79f26"> <![CDATA[//span[@class='time']]]></expression>
+    </CaptureData>
+  </DAQ>
+  <DAQ>
+    <Id>e5891257-4388-4a93-8c29-84c8ac595cf9</Id>
+    <SiteName>茴香</SiteName>
+    <SiteUrl>http://hangqing.ymt.com/jiage/7826</SiteUrl>
+    <SiteEncoding>UTF-8</SiteEncoding>
+    <SitePageNumbers>20</SitePageNumbers>
+    <SitePagerparameter>page</SitePagerparameter>
+    <SitePageCount>100</SitePageCount>
+    <Start>//li[@class='bd']</Start>
+    <PageExp>(#page#-1)*20</PageExp>
+    <ParentText></ParentText>
+    <ParentId>1</ParentId>
+    <CreatedDateTime>0001-01-01T00:00:00</CreatedDateTime>
+    <CaptureData>
+      <expression ChinaName="品名" Id="bc247a57-32ef-4ffa-ac37-28b5765f0958" Name="Breed"><![CDATA[//span[1]]]></expression>
+      <expression ChinaName="批发市场" Id="509ac885-d916-4e35-b2af-01333f3b2c39" Name="Place"><![CDATA[//span[@class='region']]]></expression>
+      <expression ChinaName="价格" Id="9d1aefa3-fc06-4f1f-b92d-869051897efd" Name="Price"><![CDATA[//span[@class='price']]]></expression>
+      <expression  ChinaName="报价时间"  Name="Date" Id="1f3590f6-a3d9-e411-8264-e0db55b79f26"> <![CDATA[//span[@class='time']]]></expression>
+    </CaptureData>
+  </DAQ>
+  <DAQ>
+    <Id>804aff2b-ab64-45f4-9bd0-8333e6f45f71</Id>
+    <SiteName>蒜黄</SiteName>
+    <SiteUrl>http://hangqing.ymt.com/jiage/8341</SiteUrl>
+    <SiteEncoding>UTF-8</SiteEncoding>
+    <SitePageNumbers>20</SitePageNumbers>
+    <SitePagerparameter>page</SitePagerparameter>
+    <SitePageCount>100</SitePageCount>
+    <Start>//li[@class='bd']</Start>
+    <PageExp>(#page#-1)*20</PageExp>
+    <ParentText></ParentText>
+    <ParentId>1</ParentId>
+    <CreatedDateTime>0001-01-01T00:00:00</CreatedDateTime>
+    <CaptureData>
+      <expression ChinaName="品名" Id="4c843205-84ec-410b-af2d-15aea3cca91f" Name="Breed"><![CDATA[//span[1]]]></expression>
+      <expression ChinaName="批发市场" Id="7f5e0bd9-b38e-4542-88fb-277f48c5e9cf" Name="Place"><![CDATA[//span[@class='region']]]></expression>
+      <expression ChinaName="价格" Id="90f36fa8-5008-4edd-a71c-08710515eb76" Name="Price"><![CDATA[//span[@class='price']]]></expression>
+      <expression  ChinaName="报价时间"  Name="Date" Id="1f3590f6-a3d9-e411-8264-e0db55b79f26"> <![CDATA[//span[@class='time']]]></expression>
+    </CaptureData>
+  </DAQ>
+  <DAQ>
+    <Id>96b5ff42-7fa6-409c-8c56-95388400b47b</Id>
+    <SiteName>莴笋</SiteName>
+    <SiteUrl>http://hangqing.ymt.com/jiage/8347</SiteUrl>
+    <SiteEncoding>UTF-8</SiteEncoding>
+    <SitePageNumbers>20</SitePageNumbers>
+    <SitePagerparameter>page</SitePagerparameter>
+    <SitePageCount>100</SitePageCount>
+    <Start>//li[@class='bd']</Start>
+    <PageExp>(#page#-1)*20</PageExp>
+    <ParentText></ParentText>
+    <ParentId>1</ParentId>
+    <CreatedDateTime>0001-01-01T00:00:00</CreatedDateTime>
+    <CaptureData>
+      <expression ChinaName="品名" Id="be2ab42d-4785-4697-a1d1-915ecba5f2e5" Name="Breed"><![CDATA[//span[1]]]></expression>
+      <expression ChinaName="批发市场" Id="ddcca43c-3085-4b58-b2b4-2bf48a678546" Name="Place"><![CDATA[//span[@class='region']]]></expression>
+      <expression ChinaName="价格" Id="97f69c3d-9b38-47b7-af78-63bdd8ad8994" Name="Price"><![CDATA[//span[@class='price']]]></expression>
+      <expression  ChinaName="报价时间"  Name="Date" Id="1f3590f6-a3d9-e411-8264-e0db55b79f26"> <![CDATA[//span[@class='time']]]></expression>
+    </CaptureData>
+  </DAQ>
+  <DAQ>
+    <Id>fcf52c20-24e5-4a6c-aed2-28f602b7aab7</Id>
+    <SiteName>竹笋</SiteName>
+    <SiteUrl>http://hangqing.ymt.com/jiage/8349</SiteUrl>
+    <SiteEncoding>UTF-8</SiteEncoding>
+    <SitePageNumbers>20</SitePageNumbers>
+    <SitePagerparameter>page</SitePagerparameter>
+    <SitePageCount>100</SitePageCount>
+    <Start>//li[@class='bd']</Start>
+    <PageExp>(#page#-1)*20</PageExp>
+    <ParentText></ParentText>
+    <ParentId>1</ParentId>
+    <CreatedDateTime>0001-01-01T00:00:00</CreatedDateTime>
+    <CaptureData>
+      <expression ChinaName="品名" Id="289e2d14-356b-4d29-b795-ffb4f2a14f5e" Name="Breed"><![CDATA[//span[1]]]></expression>
+      <expression ChinaName="批发市场" Id="6d3490dd-8514-4d38-931a-712985cea4cf" Name="Place"><![CDATA[//span[@class='region']]]></expression>
+      <expression ChinaName="价格" Id="fba19a47-39e6-4ee9-b00d-051334436aa4" Name="Price"><![CDATA[//span[@class='price']]]></expression>
+      <expression  ChinaName="报价时间"  Name="Date" Id="1f3590f6-a3d9-e411-8264-e0db55b79f26"> <![CDATA[//span[@class='time']]]></expression>
+    </CaptureData>
+  </DAQ>
+</DocumentElement>

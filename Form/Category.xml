@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<DocumentElement>
+  <category>
+    <id>1</id>
+    <name>蔬菜</name>
+  </category>
+  <category>
+    <id>2</id>
+    <name>水果</name>
+  </category>
+  <category>
+    <id>3</id>
+    <name>坚果干果</name>
+  </category>
+  <category>
+    <id>4</id>
+    <name>禽畜牧蛋肉</name>
+  </category>
+  <category>
+    <id>5</id>
+    <name>食用菌</name>
+  </category>
+  <category>
+    <id>6</id>
+    <name>中药材</name>
+  </category>
+  <category>
+    <id>7</id>
+    <name>水产</name>
+  </category>
+  <category>
+    <id>8</id>
+    <name>粮油</name>
+  </category>
+</DocumentElement>

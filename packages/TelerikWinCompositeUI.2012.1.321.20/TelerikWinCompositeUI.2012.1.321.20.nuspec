@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>TelerikWinCompositeUI</id>
+    <version>2012.1.321.20</version>
+    <title>TelerikWinCompositeUI</title>
+    <authors>Telerik</authors>
+    <owners>Telerik</owners>
+    <projectUrl>http://www.telerik.com/help/winforms/telerik-cab-enabling-kit-overview.html</projectUrl>
+    <iconUrl>http://www.telerik.com/libraries/radcontrols_for_winforms/telerikwinforms.sflb</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>This package will install the Telerik CAB Enabling Kit (Telerik.WinControls.CompositeUI assembly) in your project. Note that in order to use it, you will need to install the RadControls for WinForms package (http://www.telerik.com/products/winforms.aspx)</description>
+    <summary />
+    <releaseNotes>Updated to Q1 2012</releaseNotes>
+    <copyright>Copyright 2012</copyright>
+    <tags>CAB WinForms Telerik</tags>
+  </metadata>
+</package>
